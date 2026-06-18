@@ -1,7 +1,3 @@
-Here's your GitHub README description — just copy and paste:
-
----
-
 # 🏦 Financial Threat Detection System
 
 A machine learning-powered web application that detects fraudulent financial transactions in real time. Built using Python, Scikit-learn, and Streamlit, this system analyzes transaction patterns and classifies them as **legitimate ✅** or **fraudulent 🚨** with a fraud probability score.
